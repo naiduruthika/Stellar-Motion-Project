@@ -4,6 +4,8 @@ This MATLAB project analyzes the motion of a star using its spectral data.
 
 ## Files
 starData.mat: The dataset containing spectral data.
+
+
 stellar_motion.m: The MATLAB script that processes the data and plots the results.
 
 ## How to Run
